@@ -1,0 +1,38 @@
+name: Marketing QuestionPro
+description: Marketing skills environment for SaaS growth, CRO, content, SEO, and campaign optimization.
+
+skills:
+  # Copywriting & Content
+  - copywriting
+  - copy-editing
+  - content-strategy
+  - social-content
+
+  # SEO & Discovery
+  - seo-audit
+  - programmatic-seo
+  - schema-markup
+
+  # Conversion Rate Optimization (CRO)
+  - page-cro
+  - form-cro
+  - popup-cro
+  - signup-flow-cro
+  - onboarding-cro
+  - paywall-upgrade-cro
+
+  # Strategy & Research
+  - marketing-ideas
+  - marketing-psychology
+  - pricing-strategy
+  - launch-strategy
+  - free-tool-strategy
+  - competitor-alternatives
+  - product-marketing-context
+
+  # Campaigns & Channels
+  - email-sequence
+  - paid-ads
+  - referral-program
+  - ab-test-setup
+  - analytics-tracking
